@@ -1,0 +1,10 @@
+#navbuttons {
+    float: right;
+    right: 0;
+    margin-top: 5px;
+}
+
+#navbuttons .navbuttontext {
+    float: left;
+    margin-left: 5px;
+}
